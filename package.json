@@ -1,0 +1,9 @@
+{
+  "name": "bb8-head",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.13.4",
+    "johnny-five": "^0.9.39",
+    "socket.io": "^1.4.5"
+  }
+}
